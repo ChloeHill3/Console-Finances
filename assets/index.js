@@ -1,4 +1,4 @@
-// This javascript file contains a dataset with arrays, Date and Profile/Losses. The following code analyses this dataset
+// This javascript file contains a dataset with arrays, Date and Profile/Losses. The following code analyses this dataset.
 
 // Dataset being analysed
 var finances = [
